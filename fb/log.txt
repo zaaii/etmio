@@ -433,3 +433,12 @@
 [√] Frame: 433, Episode 01 https://facebook.com/920437333472082
 [√] Frame: 434, Episode 01 https://facebook.com/920438343471981
 [√] Frame: 435, Episode 01 https://facebook.com/920439293471886
+[√] Frame: 436, Episode 01 https://facebook.com/920477260134756
+[√] Frame: 437, Episode 01 https://facebook.com/920478190134663
+[√] Frame: 438, Episode 01 https://facebook.com/920479013467914
+[√] Frame: 439, Episode 01 https://facebook.com/920479836801165
+[√] Frame: 440, Episode 01 https://facebook.com/920480666801082
+[√] Frame: 441, Episode 01 https://facebook.com/920481480134334
+[√] Frame: 442, Episode 01 https://facebook.com/920482496800899
+[√] Frame: 443, Episode 01 https://facebook.com/920483353467480
+[√] Frame: 444, Episode 01 https://facebook.com/920484073467408
